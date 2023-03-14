@@ -43,7 +43,7 @@ console.log(filter(varfruits));
 // let arr5 = ["the", "way", "x", 4];
 
 let arr5 = ["the", "way", "x", 4];
-let search =  "the"
+let search =  "we"
 if (arr5.includes = (search)){
     console.log(search)
 }
